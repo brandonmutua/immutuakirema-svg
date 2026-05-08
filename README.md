@@ -1,4 +1,3 @@
-
 <!-- Header -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Kirema+Mutua+%F0%9F%91%8B;Data+Scientist+%7C+Data+Engineer;Always+learning.+Always+building.+%F0%9F%92%A1" alt="Typing SVG" />
@@ -66,11 +65,14 @@ I'm a passionate data enthusiast with a growing foundation in Python, SQL, and d
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-BB9AF7?style=flat-square&logo=scikit-learn&logoColor=1a1b2e)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-BB9AF7?style=flat-square&logo=tensorflow&logoColor=1a1b2e)
 ![PyTorch](https://img.shields.io/badge/PyTorch-BB9AF7?style=flat-square&logo=pytorch&logoColor=1a1b2e)
+![PyShark](https://img.shields.io/badge/PyShark-F7768E?style=flat-square&logo=wireshark&logoColor=1a1b2e)
 
 **Tools & Platforms**
 
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-7AA2F7?style=flat-square&logo=googlecloud&logoColor=1a1b2e)
 ![BigQuery](https://img.shields.io/badge/BigQuery-7AA2F7?style=flat-square&logo=googlebigquery&logoColor=1a1b2e)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-FF9E64?style=flat-square&logo=apachespark&logoColor=1a1b2e)
+![Tableau](https://img.shields.io/badge/Tableau-7DCFFF?style=flat-square&logo=tableau&logoColor=1a1b2e)
 ![Jupyter](https://img.shields.io/badge/Jupyter-E0AF68?style=flat-square&logo=jupyter&logoColor=1a1b2e)
 ![Anaconda](https://img.shields.io/badge/Anaconda-9ECE6A?style=flat-square&logo=anaconda&logoColor=1a1b2e)
 ![Git](https://img.shields.io/badge/Git-F7768E?style=flat-square&logo=git&logoColor=1a1b2e)

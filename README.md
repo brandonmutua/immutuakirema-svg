@@ -10,7 +10,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mutua.brandon.data@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-BB9AF7?style=for-the-badge&logo=github&logoColor=1a1b2e)](https://github.com/brandonmutua-svg)
-![Profile Views](https://komarev.com/ghpvc/?username=immutuakirema-svg&style=for-the-badge&color=7aa2f7&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=brandonmutua-svg&style=for-the-badge&color=7aa2f7&label=PROFILE+VIEWS)
 
 </div>
 
@@ -103,7 +103,7 @@ I'm open to collaboration, data projects, and new ideas.
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:im.mutuakirema@gmail.com)
+[![Email](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mutua.brandon.data@gmail.com)
 
 </div>
 

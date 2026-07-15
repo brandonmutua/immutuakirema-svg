@@ -22,10 +22,10 @@
 kirema = {
     "name":       "Kirema Mutua",
     "pronouns":   "he/him",
-    "roles":      ["Data Scientist", "Data Engineer"],
+    "roles":      ["Data Scientist", "Data Engineer","Machine Learning Enthusiast"],
     "location":   "Kenya 🇰🇪",
     "education":  "Moringa School Kenya",
-    "focus":      ["ML Modeling", "ETL Pipelines", "Data Analysis"],
+    "focus":      ["ML Modeling", "ETL Pipelines", "Data Analysis",],
     "tools":      ["Python", "SQL", "Google Cloud", "TensorFlow", "Pandas"],
     "currently":  "Sharpening end-to-end data workflows & ML models",
     "motto":      "Always learning. Always building. 💡"

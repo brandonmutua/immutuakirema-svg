@@ -91,7 +91,7 @@ I'm a passionate data enthusiast with a growing foundation in Python, SQL, and d
 ## 📈 Contribution Graph
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=brandonmutua-svg&bg_color=1a1b2e&color=a9b1d6&line=7aa2f7&point=bb9af7&area=true&hide_border=true" alt="Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=brandonmutua&bg_color=1a1b2e&color=a9b1d6&line=7aa2f7&point=bb9af7&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
 ---

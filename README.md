@@ -8,8 +8,8 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:im.mutuakirema@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-BB9AF7?style=for-the-badge&logo=github&logoColor=1a1b2e)](https://github.com/immutuakirema-svg)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mutua.brandon.data@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-BB9AF7?style=for-the-badge&logo=github&logoColor=1a1b2e)](https://github.com/brandonmutua-svg)
 ![Profile Views](https://komarev.com/ghpvc/?username=immutuakirema-svg&style=for-the-badge&color=7aa2f7&label=PROFILE+VIEWS)
 
 </div>

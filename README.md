@@ -1,6 +1,6 @@
 <!-- Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Kirema+Mutua+%F0%9F%91%8B;Data+Scientist+%7C+Data+Engineer;Always+learning.+Always+building.+%F0%9F%92%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Brandon+Mutua+%F0%9F%91%8B;Data+Scientist+%7C+Data+Engineer;Machine+Learning+Enthusiast;Always+learning.+Always+building.+%F0%9F%92%A1" alt="Typing SVG" />
 </div>
 
 <br/>
